@@ -1,0 +1,132 @@
+
+
+// .butt {
+//     width: 250px;
+//     height: 150px;
+//     margin: 20% 40%;
+//     border-radius: 5%;
+//     font-size: large;
+//     background-color: aquamarine;
+// }
+
+
+//// TOGGLE
+
+// .bt{
+//     display: block;
+//     width: 250px;
+//     height: 250px;
+//     background-color: bisque;
+//     border-radius: 5%;
+//     margin: 50px auto;
+//     font-size: large;
+// }
+
+// .green {
+//     background-color: chartreuse;
+// }
+
+
+// .bt2{
+//     display: block;
+//     width: 250px;
+//     height: 250px;
+//     background-color: rgb(162, 243, 130);
+//     border-radius: 5%;
+//     margin: 50px auto;
+//     font-size: large;
+
+// }
+
+
+// //// INPUT DOPISIVANJE
+// * {
+//     box-sizing: border-box;
+// }
+// body {
+//     margin: 0;
+//     padding: 0;
+// }
+
+// .wrap {
+//     width: 500px;
+//     height: 800px;
+//     margin: 0 auto;
+//     background-color:#F5F5F5;
+//     border: 10px solid #F5F5F5;
+// }
+//         .para {
+//             width: 90%;
+//             height: 95%;
+//             margin: 5px auto;
+//             background-color:#FFF;
+//             overflow: auto;
+//             display: flex;
+//     flex-direction: column;
+//         }
+// .play {
+    
+// }
+
+// .forma {
+//     display: flex;
+//     align-content: center;
+//     width: 100%;
+//     padding: 0 5%;
+//     height: 30;
+    
+//      input {
+//          margin: 0;
+//          padding: 0;
+//          width: 60%;
+//          height: 25px;
+//          background-color: #A7D2FC;
+//      }
+//      button {
+//          margin: 0;
+//          padding: 0;
+//          width: 35%;
+//          height: 25px;
+//          background-color: #C0392B;
+//      }
+// }
+
+// PLAYER 
+// body {
+//     background-image: url("../img/field.jpg");
+//     background-repeat: no-repeat;
+//     background-size: cover;
+//     position: fixed;
+//     width: 100%;
+//     height: 100%;
+// }
+
+// .player {
+//     width: 150px;
+//     height: 150px;
+//     position: absolute;
+//     top: 0;
+//     left: 0;
+// }
+
+// //SUPER MARIO
+
+.game {
+    width: 900px;
+    height: 500px;
+    margin:  0 auto;
+    background-image: url("../img/superbg.jpg");
+    background-size: cover;
+}
+
+.play {
+    display: block;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    position: relative;
+    top: 350px;
+    background-image: url("../img/mariostatic.png");
+    background-size: cover;
+
+}

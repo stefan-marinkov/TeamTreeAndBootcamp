@@ -1,0 +1,18 @@
+.game {
+  width: 900px;
+  height: 500px;
+  margin: 0 auto;
+  background-image: url("../img/superbg.jpg");
+  background-size: cover; }
+
+.play {
+  display: block;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  position: relative;
+  top: 350px;
+  background-image: url("../img/mariostatic.png");
+  background-size: cover; }
+
+/*# sourceMappingURL=style.css.map */
